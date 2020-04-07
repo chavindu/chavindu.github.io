@@ -1,0 +1,3 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule ^([0-9]+).html /?restaurant_uid=c3e8329f-758d-4225-b241-16d08d10d671 [QSA,L]
