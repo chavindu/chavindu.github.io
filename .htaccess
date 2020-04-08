@@ -1,3 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^chavindu.github.io$
-RewriteRule ^$ https://chavindu.github.io/?restaurant_uid=c3e8329f-758d-4225-b241-16d08d10d671 [L,R=301]
